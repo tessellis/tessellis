@@ -7,7 +7,7 @@ Welcome to my GitHub profile! My name is Tess Ellis, and below is a short overvi
 - Skilled in Python, HTML/CSS, SQL, Javascript, C/C++/C#, Java, Express, React, Node, MongoDB, Flask, NoSQL
 - Interested in gaining new experience in software development, UI/UX design, and machine learning
 
-### Engineering Projects Higlight
+### Engineering Projects Highlight
 - [Relational Database System] (https://github.com/tessellis/Relational-Database-System): A Web-based relational database system (node/js app)
 - [Optimized-Hashmap] (https://github.com/tessellis/Optimized-Hashmap): A two-form HashMap implementation using Separate Chaining, and Open Addressing with Quadratic Probing (Python)
 
