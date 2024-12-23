@@ -7,10 +7,9 @@ Welcome to my GitHub profile! My name is Tess Ellis, and below is a short overvi
 - Skilled in Python, HTML/CSS, SQL, Javascript, C/C++/C#, Java, Express, React, Node, MongoDB, Flask, NoSQL
 - Interested in gaining new experience in software development, UI/UX design, and machine learning
 
-### Engineering Projects
-- [Python Chess Game] (https://github.com/tessellis/Python-Falcon-Hunter-Chess-Game): A Class-Based Python Chess Game Variant (Hunter Falcon Chess)
-- [Full Stack App] (https://github.com/tessellis/Full-Stack-MERN-Website): A full-stack MERN Website with a React frontend and user interface for CRUD implementation
-- [Database/Frontend Project] ( ):
+### Engineering Projects Higlight
+- [Relational Database System] (https://github.com/tessellis/Relational-Database-System): A Web-based relational database system (node/js app)
+- [Optimized-Hashmap] (https://github.com/tessellis/Optimized-Hashmap): A two-form HashMap implementation using Separate Chaining, and Open Addressing with Quadratic Probing (Python)
 
 ### Contact Me
 - [LinkedIn] (https://www.linkedin.com/in/ellistess/)
