@@ -4,7 +4,7 @@ Welcome to my GitHub profile! My name is Tess Ellis, and below is a short overvi
 
 ### About Me
 - Currently pursuing an Honors B.S. in Computer Science at Oregon State University (Expected Graduation: Spring 2026)
-- Skilled in Python, HTML/CSS, SQL, Javascript, C/C++/C#, Java, Express, React, Node, MongoDB, Flask, NoSQL
+- Skilled in Python, HTML/CSS, SQL, Javascript, C, Java, Express, React, Node, MongoDB, Flask, NoSQL
 - Interested in gaining new experience in software development, UI/UX design, and machine learning
 
 ### Engineering Projects Highlight
