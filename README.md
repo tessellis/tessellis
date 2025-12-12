@@ -14,7 +14,6 @@ Welcome to my GitHub profile! My name is Tess Ellis, and below is a short overvi
 - [Relational Database System] (https://github.com/tessellis/Relational-Database-System): A Web-based relational database system (node/js app)
 - [Optimized-Hashmap] (https://github.com/tessellis/Optimized-Hashmap): A two-form HashMap implementation using Separate Chaining, and Open Addressing with Quadratic Probing (Python)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tessellis) 
 
 ### Contact
 - [LinkedIn] (https://www.linkedin.com/in/ellistess/)
