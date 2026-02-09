@@ -7,7 +7,8 @@ My name is Tess Ellis, and below is a short overview about me!
 - Skilled in Python, HTML/CSS, SQL, Javascript, C, Java, Express, React, Node, MongoDB, Flask, NoSQL
 - Interested in gaining new experience in software development, UI and UX Engineering, and machine learning
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tessellis&theme=graywhite)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=name&textcolor=82AAFF&title_color=82AAFF&fill=82AAFF&rect=82AAFF" alt="langs"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessellis&theme=blueberry-duo" alt="mystreak"/>
 
 
