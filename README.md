@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Tess Ellis, and below is a short overview about me!
+My name is Tess, and below is a short overview about me!
 
 ### About Me
 - Currently pursuing an Honors B.S. in Computer Science at Oregon State University (Expected Graduation: Spring 2026)
