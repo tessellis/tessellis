@@ -11,8 +11,19 @@ jobs:
     name: generate
     steps:
       - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          AUTO_PUSH: false # This prevents the internal error you were getting
+
+      - name: Push changes to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update profile summary cards" || echo "No changes to commit"
+          git push
