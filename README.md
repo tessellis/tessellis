@@ -10,6 +10,8 @@ My name is Tess, and below is a short overview about me!
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=name&textcolor=82AAFF&title_color=82AAFF&fill=82AAFF&rect=82AAFF" alt="langs"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tessellis&theme=transparent" alt="mystreak"/>
 
+![](./profile-summary-card-output/default/0-profile-details.svg)
+
 
 ### Engineering Projects Highlight
 - [Relational Database System] (https://github.com/tessellis/Relational-Database-System): A Web-based relational database system (node/js app)
