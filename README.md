@@ -1,4 +1,4 @@
-## Hello there!
+## Hi!
 
 My name is Tess, and below is a short overview about me!
 
@@ -14,8 +14,8 @@ My name is Tess, and below is a short overview about me!
 
 
 ### Engineering Projects Highlight
-- [Relational Database System] (https://github.com/tessellis/Relational-Database-System): A Web-based relational database system (node/js app)
-- [Optimized-Hashmap] (https://github.com/tessellis/Optimized-Hashmap): A two-form HashMap implementation using Separate Chaining, and Open Addressing with Quadratic Probing (Python)
+- [OPEnS Lab - WeatherChimes Lead] (https://github.com/tessellis/OPEnSLab-OSU/WeatherChimesWeb): Open Source Web-Based Environmental Data Sonification Platform
+- [GCP Restful API Tarpaulin Management Tool] (https://github.com/tessellis/gcp-restful-api-tarpaulin-management-tool): A complete RESTful API hosted on Google Cloud Platform (GCP) for a Tarpaulin app
 
 
 ### Contact
