@@ -4,7 +4,6 @@ My name is Tess, and below is a short overview about me!
 
 ### About Me
 - Currently pursuing an Honors B.S. in Computer Science at Oregon State University (Expected Graduation: Spring 2026)
-- Skilled in Python, HTML/CSS, SQL, Javascript, C, Java, Express, React, Node, MongoDB, Flask, NoSQL
 - Interested in gaining new experience in software development, UI and UX Engineering, and machine learning
 
 [![](https://raw.githubusercontent.com/tessellis/tessellis/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
