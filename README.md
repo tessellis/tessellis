@@ -14,7 +14,6 @@ My name is Tess, and below is a short overview about me!
 
 ### Engineering Projects Highlight
 - [OPEnS Lab - WeatherChimes Lead] (https://github.com/tessellis/OPEnSLab-OSU/WeatherChimesWeb): Open Source Web-Based Environmental Data Sonification Platform
-- [GCP Restful API Tarpaulin Management Tool] (https://github.com/tessellis/gcp-restful-api-tarpaulin-management-tool): A complete RESTful API hosted on Google Cloud Platform (GCP) for a Tarpaulin app
 
 
 ### Contact
