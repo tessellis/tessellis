@@ -1,6 +1,6 @@
 ## Hi!
 
-My name is Tess, and below is a short overview about me!
+My name is Tess, and below is a short overview about me and my undergrad work!
 
 ### About Me
 - Currently pursuing an Honors B.S. in Computer Science at Oregon State University (Expected Graduation: Spring 2026)
